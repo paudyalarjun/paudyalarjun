@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paudyalarjun
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning and working as a Asp.Net Core Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
